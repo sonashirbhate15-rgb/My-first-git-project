@@ -1,3 +1,3 @@
 # My-first-git-projectls 
 <br>
-author: sona shirbhategit
+Author: Sonal Shirbhate
